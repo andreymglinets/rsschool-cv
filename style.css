@@ -1,0 +1,15 @@
+body{
+   margin: 0;
+   padding: 0;
+   background-color: aliceblue;
+}
+.content{
+    width: 1000px;
+    margin: auto;
+}
+span{
+    font-weight: bold;
+}
+code{
+    background-color: #cccccc;
+}
