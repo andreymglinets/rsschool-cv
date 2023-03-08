@@ -1,4 +1,5 @@
 # Andrey Mglinets
+ ./rsschool-cv/photo_2023-03-08_17-33-40.jpg
 ## Contacts
 * Phone: +375(44)-719-85-79;
 * Location: Minsk;
@@ -15,6 +16,13 @@ knowledge and apply it in practice.
 * CSS;
 * JavaScript;
 * Git;
+
+## Code 
+    let a = 1;
+    let b = 2;
+    let sum = 0;
+
+    console.log (sum = a+b);
 
 ## Education
 * University: Polessky state university, Engineer-programmer.
