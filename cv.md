@@ -18,11 +18,10 @@ knowledge and apply it in practice.
 * Git;
 
 ## Code 
-    let a = 1;
-    let b = 2;
-    let sum = 0;
-
-    console.log (sum = a+b);
+    var ArrowFunc = function(arr) {
+    let newarr = arr.map(el =>  String.fromCharCode(el)).join('');
+    return newarr;
+    }
 
 ## Education
 * University: Polessky state university, Engineer-programmer.
