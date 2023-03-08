@@ -1,5 +1,5 @@
 # Andrey Mglinets
- ![Текст с описанием картинки](./rsschool-cv/photo_2023-03-08_17-33-40.jpg)
+ ![Me](./photo_2023-03-08_17-33-40.jpg)
 ## Contacts
 * Phone: +375(44)-719-85-79;
 * Location: Minsk;
