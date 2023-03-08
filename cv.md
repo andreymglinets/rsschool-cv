@@ -21,4 +21,4 @@ knowledge and apply it in practice.
 * Collage: GGAEK, technical-programmer.
 
 ## English
-## A2 (But now i study with tutor to lavel up)
+A2 (But now i study with tutor to lavel up)
